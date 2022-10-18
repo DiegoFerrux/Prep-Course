@@ -70,7 +70,7 @@ Entra a github.com y logueate con tu usuario. Luego en la parte de arriba a la d
 
 En la nueva pantalla, vas a tener que seleccionar el nombre de tu nuevo repo. Crea un repo que se llame: `repositorio-henry`. Podes agregarle una descripción también, pero no es obligatoria.
 
-![alt](../../_src/assets/01-Git/create-repository-name.png)
+![alt](../../_src/assets/01-Git/create-repositorycd-name.png)
 
 Luego elegí la visibilidad del proyecto como público (para tener repos privados tenes que pagar el premium de github).
 
